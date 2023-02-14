@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" style="width: 400px; margin-top: 100px" align='right'>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" style="width: 400px; margin-top: 100px">
 
 <h1>Heyyyy! 👋</h1>
   <p>I'm Bruno, Front-End developer.
