@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align='right'>
 
 <h1>Heyyyy! 👋</h1>
-  <p>I'm Bruno, Front-End developer.
+  <p>I'm Bruno, Full-Stack developer.
   <br>- SP/Brasil.
 </p>
   
