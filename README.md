@@ -8,23 +8,21 @@
 <p align="left">
   <h3> About me: </h3>
   <ul>
-  <li> 🎉 21 years old </li>
-  <li> 📚 System Analysis and Development</li>
-  <li> 💻 Currently working at: <a href='https://github.com/amerele/Windows-XP-Replicated'> Windows XP Clone + Minesweeper </a></li>
+    <li> 🎉 21 years old </li>
+    <li> 📚 System Analysis and Development</li>
+    <li> 💻 Currently working at: <a href='https://github.com/amerele/Windows-XP-Replicated'> Windows XP Clone + Minesweeper </a></li>
   </ul>
-   <h3>🎈 Technologies: </h3>
-   </p>
-   <p align='left'> 
-     <img src="https://camo.githubusercontent.com/52b305d5b7cbcbce352926add25f536f89d4222f0a270f48560caf42d6966572/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742d2532333030374143432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" style="max-width: 100%;">
-     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" style="max-width: 100%;">
-<img src="https://camo.githubusercontent.com/52b305d5b7cbcbce352926add25f536f89d4222f0a270f48560caf42d6966572/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747970657363726970742d2532333030374143432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" style="max-width: 100%;">
-<img src="	https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="max-width: 100%;">
-     
- <img src="https://camo.githubusercontent.com/0d050a31be3cf76841d5d3c62d81b0dd10d6e23d33b452df4b9942e3959d8ca5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333335343935652e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642" style="max-width: 100%;">
- <img src="[https://camo.githubusercontent.com/0d050a31be3cf76841d5d3c62d81b0dd10d6e23d33b452df4b9942e3959d8ca5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333335343935652e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)" style="max-width: 100%;">
- 
-  <img src="https://camo.githubusercontent.com/60ced9d0b93df96cf8b0c2249a2f225fc851ecf9ec2db9200b7a27bd6b72c64a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465" style="max-width: 100%;">
-
+</p>
+<h3>🎈 Technologies: </h3>
+<p align='left'> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
 <h3> ## Avaliable for working</h3>
