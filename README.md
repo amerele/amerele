@@ -6,12 +6,6 @@
 </p>
   
 <p align="left">
-  <h3> About me: </h3>
-  <ul>
-    <li> 🎉 21 years old </li>
-    <li> 📚 System Analysis and Development</li>
-    <li> 💻 Currently working at: <a href='https://github.com/amerele/Windows-XP-Replicated'> Windows XP Clone + Minesweeper </a></li>
-  </ul>
 </p>
 <h3>🎈 Technologies: </h3>
 <p align='left'> 
