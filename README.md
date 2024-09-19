@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align='right'>
 
 <h1>Heyyyy! 👋</h1>
-  <p>I'm Bruno, Full-Stack developer.
+  <p>I'm Bruno, Backend Developer for @Happmobi.
   <br>- SP/Brasil.
 </p>
   
@@ -20,7 +20,6 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
-<h3> ## Avaliable for working</h3>
 <p align="left">
   💌 Contact: ⤵️
 </p>
