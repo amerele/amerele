@@ -1,7 +1,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align='right'>
 
 <h1>Heyyyy! 👋</h1>
-  <p>I'm Bruno, Backend Developer for @Happmobi.
+  <p>I'm Bruno, 
+  <br> NodeJS Backend Developer
   <br>- SP/Brasil.
 </p>
   
